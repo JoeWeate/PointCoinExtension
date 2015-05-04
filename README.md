@@ -32,7 +32,7 @@ What’s stopping us from generating a wrong QR code?
   
   We do not handle the transaction.  No private keys, just a more convenient way to transact.  
 
-
+ 
   
 
 
