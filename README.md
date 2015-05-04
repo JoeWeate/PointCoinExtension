@@ -4,7 +4,7 @@ PointCoin Chrome Extension : Remembar
 To encourage the spread of Pointcoin by providing an easier way to spend and share Pointcoins.  
 
 
-Goal: To provide an easier way to share PointCoin.
+Goals:
 
 
 What do we do?
@@ -32,7 +32,9 @@ Uses:
 
 
 Trusting Us:
-What’s stopping us from generating a wrong QR code? We use Google to host our QR code image file so you can easily verify in the url that your address is 
+
+What’s stopping us from generating a wrong QR code?
+
   How come you don't send more than the desired amount? Or send the money to YOUR address?
   
   We do not handle the transaction.  No private keys, just a more convenient way to transact.  
