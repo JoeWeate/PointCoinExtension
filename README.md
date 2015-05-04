@@ -8,6 +8,7 @@ Goals:
 
 
 What do we do?
+
 1. Create fast access to your public address 
                                  input: Shorthand command, Public Address
                                  output: When shorthand command is typed, Remembar changes the command to your Public Address
