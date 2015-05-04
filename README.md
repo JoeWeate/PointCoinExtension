@@ -33,11 +33,9 @@ Uses:
 
 Trusting Us:
 
-What’s stopping us from generating a wrong QR code?
-
-  How come you don't send more than the desired amount? Or send the money to YOUR address?
+What’s stopping us from generating a wrong QR code? How come you don't send more than the desired amount? Or send the money to YOUR address?
   
-  We do not handle the transaction.  No private keys, just a more convenient way to transact.  
+    We do not handle the transaction.  No private keys, just a more convenient way to transact.  
 
  
   
