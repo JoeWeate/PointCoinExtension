@@ -9,11 +9,12 @@ Goals:
 
 What do we do?
 1. Create fast access to your public address 
-    User input: Shorthand command, Public Address
-    Output: When shorthand command is typed, Remembar changes the command to your Public Address
+                                 input: Shorthand command, Public Address
+                                 output: When shorthand command is typed, Remembar changes the command to your Public Address
 
 
-2. Generate a unique QR code: User input-> Address, Message, Amount
+2. Generate a unique QR code: 
+                                input-> Address, Message, Amount
                                 output->Output: unique QR code
 
 
